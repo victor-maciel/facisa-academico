@@ -9,5 +9,5 @@ Destinado as atividades academicas da unifacisa
 - Padrão Singleton  
 - Connection Pool
 - Git  
-
+- Classe ENUM
 ===============================================================================
