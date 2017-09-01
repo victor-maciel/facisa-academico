@@ -10,4 +10,5 @@ Destinado as atividades academicas da unifacisa
 - Connection Pool
 - Git  
 - Classe ENUM
-===============================================================================
+- Aplicação de testes usando JUNIT 
+==============================================================================
